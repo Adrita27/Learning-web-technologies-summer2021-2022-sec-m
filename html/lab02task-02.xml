@@ -1,0 +1,29 @@
+<person>
+ <info>
+   <sl_no>23</id>
+   <name>john carter</name>
+   <date>
+     <day>25</day>
+     <month>12</month>
+     <year>2015</year>
+   </date>
+ </info>
+ <info>
+   <sl_no>29</id>
+   <name>bon marshal</name>
+   <date>
+     <day>13</day>
+     <month>1</month>
+     <year>1999/year>
+   </date>
+ </info>
+ <info>
+   <sl_no>35</id>
+   <name>clark kent</name>
+   <date>
+     <day>17</day>
+     <month>6</month>
+     <year>2005</year>
+   </date>
+ </info>
+</person>

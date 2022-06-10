@@ -1,0 +1,32 @@
+<employees>
+ <employee>
+    <name>john doe</name>
+    <address>
+      <flat></flat>
+      <house>38</house>
+      <road>3</road>
+      <area>banani</area>
+      <devision>dhaka</devision>
+    </address>
+ </employee>
+ <employee>
+    <name>mark zuckerbag</name>
+    <address>
+      <flat>a/1</flat>
+      <house>20</house>
+      <road>18</road>
+      <area>mirpur</area>
+      <devision>dhaka</devision>
+    </address>
+ </employee>
+ <employee>
+    <name>ala voski</name>
+    <address>
+      <flat></flat>
+      <house>38</house>
+      <road>3</road>
+      <area>motijheel</area>
+      <devision></devision>
+    </address>
+ </employee>
+</employees>
