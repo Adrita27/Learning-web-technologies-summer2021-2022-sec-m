@@ -1,0 +1,4 @@
+adrita|123|01|admin
+bushra|asd|02|user
+abc|qwe|001|admin
+adrita|qwe|002|admin
